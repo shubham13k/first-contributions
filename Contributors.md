@@ -58,6 +58,7 @@ Jyothishwari GP
 - [Prathmesh Khede](https://github.com/Prathm3021)
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
+- [Rajesh Bhatia](https://github.com/rajeshbhatia007)
 - [Harsh Jaiswal](https://github.com/harshjais369)
 - [Racheli Gimi](https://github.com/RACHELIgit)
 - [Richard Triplett](https://github.com/retripl)
